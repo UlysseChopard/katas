@@ -1,1 +1,3 @@
 # katas
+
+Training playground
